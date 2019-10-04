@@ -1,0 +1,43 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+.container-1 {
+    background-color: rgb(224, 224, 224);
+    height: 125px;
+    width: 100%;
+    padding: 6px 20px;
+    box-sizing: border-box;
+}
+.square {
+    background-color: cornflowerblue;
+    height: 100%;
+    width: 125px;
+}
+article {
+    height: 300px;
+    width: 100%;
+    padding: 55px;
+    box-sizing: border-box;
+}
+article p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 28px;
+    margin: 0;
+}
+.box-1 {
+    height: 150px;
+    background-color: cornflowerblue;
+}
+.box-2 {
+    height: 150px;
+    background-color: turquoise;
+}
+.box-3 {
+    height: 150px;
+    background-color: darkseagreen;
+}
+.box-4 {
+    height: 150px;
+    background-color: gold;
+}
